@@ -1,2 +1,2 @@
 # media
-Media files related to grodno-city organization and Grodno city
+Media files related to **Grodno** city and `grodno-city` organization in particular
